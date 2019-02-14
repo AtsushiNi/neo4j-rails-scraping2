@@ -1,0 +1,30 @@
+nohup: ignoring input
+OpenJDK 64-Bit Server VM warning: If the number of processors is expected to increase from one, then you should configure the number of parallel GC threads appropriately using -XX:ParallelGCThreads=N
+2019-02-13 23:40:21.644+0000 INFO  ======== Neo4j 3.4.1 ========
+2019-02-13 23:40:21.842+0000 INFO  Starting...
+2019-02-13 23:40:36.587+0000 INFO  Bolt enabled on localhost:7472.
+2019-02-13 23:40:51.362+0000 INFO  Started.
+2019-02-13 23:40:57.571+0000 INFO  Remote interface available at http://localhost:7474/
+2019-02-14 00:04:22.451+0000 INFO  Neo4j Server shutdown initiated by request
+2019-02-14 00:04:22.498+0000 INFO  Stopping...
+2019-02-14 00:04:23.509+0000 INFO  Stopped.
+nohup: ignoring input
+OpenJDK 64-Bit Server VM warning: If the number of processors is expected to increase from one, then you should configure the number of parallel GC threads appropriately using -XX:ParallelGCThreads=N
+2019-02-14 00:07:57.433+0000 INFO  ======== Neo4j 3.4.1 ========
+2019-02-14 00:07:57.629+0000 INFO  Starting...
+2019-02-14 00:08:11.642+0000 INFO  Bolt enabled on 192.168.33.11:7472.
+2019-02-14 00:08:25.537+0000 INFO  Started.
+2019-02-14 00:08:31.363+0000 INFO  Remote interface available at http://localhost:7474/
+2019-02-14 00:47:57.079+0000 INFO  Neo4j Server shutdown initiated by request
+2019-02-14 00:47:57.139+0000 INFO  Stopping...
+2019-02-14 00:47:58.577+0000 INFO  Stopped.
+nohup: ignoring input
+OpenJDK 64-Bit Server VM warning: If the number of processors is expected to increase from one, then you should configure the number of parallel GC threads appropriately using -XX:ParallelGCThreads=N
+2019-02-14 00:48:50.538+0000 INFO  ======== Neo4j 3.4.1 ========
+2019-02-14 00:48:50.733+0000 INFO  Starting...
+2019-02-14 00:49:05.803+0000 INFO  Bolt enabled on 192.168.33.11:7472.
+2019-02-14 00:49:20.443+0000 INFO  Started.
+2019-02-14 00:49:26.892+0000 INFO  Remote interface available at http://localhost:7474/
+2019-02-14 01:38:41.986+0000 INFO  Neo4j Server shutdown initiated by request
+2019-02-14 01:38:42.020+0000 INFO  Stopping...
+2019-02-14 01:38:43.077+0000 INFO  Stopped.
